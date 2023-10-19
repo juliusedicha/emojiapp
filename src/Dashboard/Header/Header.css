@@ -1,0 +1,18 @@
+/* Apply a background color and increase padding to make the header more prominent */
+.header {
+    background-color: #a86161;
+    padding: 20px 0;
+    font-weight: bold; /* Use bold for a more prominent header */
+    font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 24px; /* Reduce font size for better readability */
+    text-align: center;
+    color: #fff; /* Use white text for better contrast on the dark background */
+  }
+  
+  /* Adjust the image style within the header */
+  .header img {
+    margin-right: 10px; /* Use margin for spacing instead of padding */
+    width: 24px; /* Reduce the image size for better alignment */
+    vertical-align: middle; /* Align the image vertically in the middle of the text */
+  }
+  
